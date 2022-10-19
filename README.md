@@ -1,4 +1,4 @@
 # YouTube Playlist Bot
 
-Goal: extract urls of removed videos and record them in a text file
+Goal: extract URLs of removed videos from YouTube playlists and record them in a text file
 
